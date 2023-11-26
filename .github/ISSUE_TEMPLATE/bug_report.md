@@ -1,8 +1,8 @@
 ---
 name: Bug report
-about: Create a report to help us improve the experience of NexifyHub
+about: Create a report to help us improve the experience of ZЗ Social
 title: "[BUG] "
-labels: Bug, Unconfirmed
+labels: ''
 assignees: ''
 
 ---

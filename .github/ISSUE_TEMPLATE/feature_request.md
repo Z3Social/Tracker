@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the future experience of NexifyHub
 title: "[FEATURE] "
-labels: Enhancement
+labels: ''
 assignees: ''
 
 ---
