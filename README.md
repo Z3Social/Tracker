@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/hXOykJe.jpg" width="50%">
+  <img src="https://i.imgur.com/1bL0OLp.jpg" width="50%">
 </p>
 
 # NexifyHub - Tracker
