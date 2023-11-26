@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for the future experience of NexifyHub
+about: Suggest an idea for the future experience of ZЗ Social
 title: "[FEATURE] "
 labels: ''
 assignees: ''
