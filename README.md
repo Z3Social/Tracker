@@ -18,4 +18,4 @@ If the bug that you wish to report isn't a [risky bug](#what-is-a-risky-bug) the
 A risky bug is one that puts users of ZЗ Social in the way of harm. This could mean the following (but not limited to):
 - A bug allowing users to manipulate other accounts.
 - A bug that is used to gain more access than usual.
-- A bug that crashes the NexifyHub instance (Frontend/Backend).
+- A bug that crashes the Z3 Social instance (Frontend/Backend).
